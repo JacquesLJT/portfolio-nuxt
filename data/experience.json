@@ -1,0 +1,27 @@
+[
+  {
+    "title": "University Capstone Project",
+    "company": "University of Maine",
+    "dates": "September 2022 - May 2023",
+    "description": "As part of my Computer Science degree, I completed a capstone project in my final year. I worked in a group of 5 to develop a web application for a client on campus. The application was designed to allow users to create and download their own fantasy creatures, as well as view the collection of creatures stored on the client's database. I was responsible for designing and implementing the creature creator as well as the PDF download functionality. I also contributed to the overall design of the application.",
+    "responsibilities": [
+      "Developed a frontend creature creation and viewing tool for a client's existing database of fantasy creatures",
+      "Used a CI/CD workflow to efficiently and effectively develop and deploy the product",
+      "Gained experience communicating with a client and managing expectations"
+    ],
+    "logo": "MAINE_crest_4c.png"
+  },
+  {
+    "title": "Software QA Analyst / Software Developer",
+    "company": "WheresTheBus LLC",
+    "dates": "December 2023 – Present",
+    "description": "As a software QA analyst and developer, I contribute to delivering high-quality software by writing Jira tickets, configuring containerized APIs, and collaborating closely with customers and the programming team. I also utilize Figma to mock up UI elements for improved user experience.",
+    "responsibilities": [
+      "Wrote Jira tickets and tracked the development and QA process to ensure high-quality software deliverables",
+      "Configured a new API using Flask and Celery in a containerized environment on AWS EC2 to process requests and provide data to the production platform",
+      "Communicated directly with customers to gather new feature requirements and collaborated with the programming team to develop and implement those features",
+      "Mocked up user interface elements using Figma to visually communicate feature requirements and improve customer satisfaction"
+    ],
+    "logo": "WTB-logo.png"
+  }
+]

@@ -1,0 +1,55 @@
+{
+    "Programming Languages": [
+        "Python",
+        "C",
+        "Java",
+        "JavaScript",
+        "TypeScript",
+        "PHP",
+        "HTML",
+        "CSS",
+        "Verilog"
+    ],
+
+    "Libraries & Frameworks": [
+        "Vue",
+        "Nuxt.js",
+        "Chakra UI",
+        "React",
+        "Flask",
+        "Celery"
+    ],
+
+    "Tools & Platforms": [
+        "Figma",
+        "Git",
+        "GitHub",
+        "JetBrains IDEs",
+        "VS Code",
+        "Eclipse",
+        "MySQL Workstation",
+        "AWS",
+        "Docker",
+        "Google Firebase",
+        "DigitalOcean",
+        "VirtualBox",
+        "VMware"
+    ],
+
+    "Databases": [
+        "MySQL",
+        "MongoDB"
+    ],
+
+    "Relevant Courses": [
+        "Data Structures and Algorithms",
+        "Intro to Software Engineering",
+        "Intro to Artificial Intelligence",
+        "Cloud Computing",
+        "Network Engineering",
+        "Sequential Logic Systems",
+        "Embedded Systems",
+        "Discrete Structures",
+        "Capstone"
+    ]
+}

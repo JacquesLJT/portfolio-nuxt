@@ -1,0 +1,13 @@
+html {
+    scroll-behavior: smooth;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+/* Applies to all elements with an id */
+[id] {
+    scroll-margin-top: 80px;
+  }

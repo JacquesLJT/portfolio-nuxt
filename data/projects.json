@@ -1,0 +1,61 @@
+[
+    {
+        "title": "Portfolio Website",
+        "description": [
+            "This is the second version of my portfolio website, built with Vue.js and Chakra UI. I wanted to create something that would set me apart from other students and job applicants, so I built a site to showcase my skills and abilities.",
+            "Before creating the first version, I had no experience in web development. However, I was eager to learn and taught myself HTML, CSS, and JavaScript. Within a few weeks, I started work on the first iteration using React.js. Though it was my first foray into web development, I was pleased with the results and proud to share it with potential employers and colleagues.",
+            "For the second version, I aimed to improve upon the original site while also learning a new framework. I chose Vue.js and Chakra UI, having heard positive feedback about Vue and already having some experience with Chakra UI. I’m pleased with how it turned out and look forward to continuing this project.",
+            "Both the first and second versions of my portfolio can be viewed on my GitHub page by clicking the buttons below."
+        ],
+        "link": "https://github.com/JacquesLJT/Portfolio",
+        "image": "portfolio_v1.webp"
+    },
+    {
+        "title": "Capstone Project",
+        "description": [
+            "Over the course of two semesters, I worked with four other students to design, build, and deliver an interactive web application for a client. Our project followed the software development lifecycle (SDLC), and we meticulously documented each phase—from initial design and requirements gathering to final delivery and maintenance.",
+            "We were tasked with creating a user-friendly front end using TypeScript, React, and Vite, then connecting it to the client’s Oracle database via Sequelize (an ORM). Our initial directive focused on front-end development, assuming the back-end was already in place.",
+            "However, we soon discovered that we also needed to develop the back end and database models. This unexpected challenge meant we couldn't meet all our initial requirements, but we remained agile and prioritized the major objectives.",
+            "We adopted an agile workflow, with two-week sprints and daily standup meetings before each scrum. This allowed us to regularly evaluate our progress, adjust plans as needed, and maintain steady momentum toward our goals.",
+            "My primary responsibility was creating the creature creator feature, enabling users to design their own fantasy creatures by adjusting attributes in the stat block. Users can preview their custom creatures and optionally download them as PDFs.",
+            "We also added a search and filter feature, making it easy to navigate the collection of creatures in the database.",
+            "To streamline development and ensure reliability, we implemented a continuous integration/continuous deployment (CI/CD) pipeline via GitHub Actions. This automation improved our productivity and reduced errors.",
+            "Despite unexpected challenges, our team delivered a functional application that met the client’s needs, providing an engaging platform for fantasy creature enthusiasts to create and manage their collections."
+        ],
+        "link": "https://github.com/triscuitcircuit/Moonwake-FGG",
+        "image": "capstone.webp"
+    },
+    {
+        "title": "Nginx on DigitalOcean",
+        "description": [
+            "For my final project in Network Engineering, I gained hands-on experience with DigitalOcean, a leading cloud infrastructure provider. I set up and hosted a reverse proxy server on a DigitalOcean droplet using Nginx, meticulously configuring it to serve a replica of my portfolio site via a dedicated subdomain.",
+            "This project involved multiple stages, showcasing my proficiency in various aspects of network engineering while deepening my understanding of DigitalOcean's services. The first step was installing and configuring Nginx on the droplet to efficiently handle incoming traffic, laying the foundation for the rest of the project.",
+            "To bolster security, I configured a robust firewall, adding an extra layer of protection against potential threats. Building on this secure foundation, I then set up an Nginx reverse proxy to handle subdomain requests and route them appropriately, ensuring seamless user navigation.",
+            "Understanding the need for secure traffic, I configured SSL certificates with Let's Encrypt to keep all browser-server data encrypted. Finally, I mapped the subdomain to the droplet’s IP via DNS, allowing users to access the portfolio site securely and conveniently.",
+            "This project demonstrated my thorough grasp of network engineering concepts and cloud infrastructure. In the end, I delivered a secure, easily accessible replica of my portfolio site via a dedicated subdomain."
+        ],
+        "link": "",
+        "image": "certificate.webp"
+    },
+    {
+        "title": "Verilog Implementation of Pong",
+        "description": [
+            "For my final project in Sequential Logic Systems, my partner and I developed a functional rendition of the classic game of Pong using Verilog, ultimately implementing it on an Altera FPGA. This project extensively explored the practical applications of digital design and hardware programming.",
+            "We received foundational modules to manage VGA output and CPU timings, and we built upon them to create the core game logic. My contributions involved designing the play area and visual elements (the ball and paddles), as well as the logic governing their interactions. This included handling the ball’s movement and detecting collisions with paddles and game boundaries.",
+            "This project showcased my ability to apply theoretical concepts to real problems, demonstrating my skills in digital design, Verilog programming, and collaborative development. You can view the source code and further details on GitHub."
+        ],
+        "link": "https://github.com/JacquesLJT/Pong",
+        "image": "pong.webp"
+    },
+    {
+        "title": "Connecting PS/2 Keyboard to Raspberry Pi over GPIO",
+        "description": [
+            "In my Embedded Systems course at the University of Maine, I connected a PS/2 keyboard to a Raspberry Pi via GPIO pins, exploring hardware interfacing, device drivers, and real-time programming in an embedded context.",
+            "At the core of the project was a C program that read scan codes from the keyboard and decoded them to display corresponding characters on the terminal. This highlighted my proficiency in low-level programming and keyboard interfacing protocols.",
+            "I used a custom Raspberry Pi hat designed by my professor, Dr. Weaver, featuring passthroughs for pins 23 and 24, power, ground, and a voltage converter for the PS/2 port. Working with custom hardware showcased my ability to handle specialized components and deepened my understanding of hardware-software interaction.",
+            "While the project was successful, I see opportunities for improvement. Future iterations could include a more comprehensive lookup table and explore sending data back to the keyboard, moving beyond unidirectional communication. Overall, this project offered valuable hands-on experience in embedded systems, highlighting my skills in C programming, device interfacing, and hardware manipulation."
+        ],
+        "link": "",
+        "image": "rpi_ps2.webp"
+    }
+]
