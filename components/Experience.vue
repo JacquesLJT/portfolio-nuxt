@@ -132,7 +132,7 @@
     padding: 15px;
     margin: 0;
     list-style-type: disc;
-    outline: 1px solid red;
+    /* outline: 1px solid red; */
   }
  
   .job__responsibility {

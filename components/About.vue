@@ -7,19 +7,19 @@
             <div class="about__content">
                 <div class="about__content--left">
                     <p>
-                        From an early age, I was captivated by the world of computers—sparked by watching my dad’s passion for electronics and robotics. 
+                        From an early age, I was captivated by the world of computers—sparked by watching my dad's passion for electronics and automation. 
                         I eagerly dove into self-teaching, mastering HTML, CSS, and JavaScript through online tutorials, and even building simple websites and text-based games. 
                         Those early experiments, coupled with hands-on projects like tinkering with robotics and Arduino, set the stage for a lifelong passion for both coding and the underlying infrastructure that makes technology work.
                     </p>
                     <p>
-                        Today, I’ve channeled that passion into a career where I blend creative software development with a deep appreciation for reliable, scalable systems. 
+                        Today, I've channeled that passion into a career where I blend creative software development with a deep appreciation for reliable, scalable systems. 
                         As a Software QA Analyst and Software Developer at WheresTheBus LLC, I build robust APIs in Python using Flask and Celery, 
-                        deploy containerized applications with Docker, and manage services on AWS EC2 and AWS ElastiCache. 
-                        I also work closely with customers—gathering requirements and crafting intuitive UI mockups in Figma—to deliver solutions that truly meet real-world needs.
+                        deploy containerized applications with Docker, and manage services on AWS with EC2 and ElastiCache. 
+                        I also work closely with customers — gathering requirements and crafting intuitive UI mockups in Figma — to deliver solutions that truly meet real-world needs.
                     </p>
                     <p>
                         Graduating cum laude from the University of Maine with a BS in Computer Science and a minor in Computer Engineering provided the formal foundation to complement my self-taught beginnings. 
-                        Now, I’m eager to continue evolving my skill set and contribute to innovative projects that push the boundaries of modern web applications.
+                        Now, I'm eager to continue evolving my skill set and contribute to innovative projects that push the boundaries of modern web applications.
                     </p>
                 </div>
                 <div class="about__content--right">
@@ -51,7 +51,7 @@
     .about__title {
         margin-bottom: 50px;
         text-align: center;
-        outline: 1px solid red;
+        /* outline: 1px solid red; */
     }
 
     .about__title h1 {

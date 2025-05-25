@@ -17,15 +17,13 @@
           <form
             name="contact"
             method="POST"
-            data-netlify="true"
-            data-netlify-honeypot="bot-field"
+            action="https://formsubmit.co/ajax/71e0380f551ac2ff9de10c60fa90fe80"
             @submit.prevent="handleSubmit"
           >
             <input type="hidden" name="form-name" value="contact" />
-            <div class="hidden">
-              <label for="bot-field">Don't fill this out if you're human:</label>
-              <input type="text" id="bot-field" name="bot-field" />
-            </div>
+            <input type="text" name="_honey" style="display:none" />
+            <input type="hidden" name="_subject" value="New message from Landon's portfolio site" />
+            <input type="hidden" name="_captcha" value="false" />
             <div>
               <label for="name">Name</label>
               <input type="text" id="name" name="name" required />
@@ -81,6 +79,7 @@ async function handleSubmit(event: Event) {
   try {
     const response = await fetch(form.action || window.location.href, {
       method: form.method,
+      headers: { 'Accept': 'application/json' },
       body: formData,
     });
     await new Promise((resolve) => setTimeout(resolve, 2000));

@@ -45,7 +45,7 @@
   .certifications__container {
     width: 80%;
     margin: 0 auto;
-    outline: 1px solid red;
+    /* outline: 1px solid red; */
   }
 
   .certifications__title {
@@ -64,7 +64,7 @@
     gap: 20px;
     width: 30%;
     margin: 0 auto;
-    outline: 1px solid red;
+    /* outline: 1px solid red; */
   }
 
   .certifications__certification {

@@ -84,7 +84,7 @@
   .projects__title {
     margin-bottom: 50px;
     text-align: center;
-    outline: 1px solid red;
+    /* outline: 1px solid red; */
   }
 
   .projects__title h1 {
@@ -92,13 +92,13 @@
     font-weight: 700;
   }
 
-  .projects__content {
+  /* .projects__content {
     outline: 1px solid red;
   }
 
   .projects__project {
     outline: 1px solid red;
-  }
+  } */
 
   .project__title {
     font-size: 2rem;
@@ -133,7 +133,7 @@
 
   .project__description-container {
     flex: 1;
-    outline: 1px solid red;
+    /* outline: 1px solid red; */
   }
 
   .project__description {
@@ -191,6 +191,7 @@
 
   .project__link:hover {
     box-shadow: 3px 3px 0 #101935;
+    color: #101935;
     transform: translateX(3px) translateY(3px);
   }
 
@@ -210,12 +211,12 @@
     align-items: center;
     justify-content: center;
     z-index: 1000;
-    outline: 1px solid red;
+    /* outline: 1px solid red; */
   }
 
   .modal-content {
     position: absolute;
-    outline: 1px solid red;
+    /* outline: 1px solid red; */
   }
 
   .modal-content img {

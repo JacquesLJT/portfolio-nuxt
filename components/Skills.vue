@@ -44,7 +44,7 @@
   .skills__title {
       margin-bottom: 50px;
       text-align: center;
-      outline: 1px solid red;
+      /* outline: 1px solid red; */
   }
 
   .skills__title h1 {

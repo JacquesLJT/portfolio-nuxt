@@ -1,23 +1,25 @@
 {
     "Programming Languages": [
         "Python",
-        "C",
-        "Java",
         "JavaScript",
         "TypeScript",
-        "PHP",
+        "C",
+        "Java",
+        "SQL",
         "HTML",
         "CSS",
-        "Verilog"
+        "PHP",
+        "Bash"
     ],
 
     "Libraries & Frameworks": [
-        "Vue",
-        "Nuxt.js",
-        "Chakra UI",
-        "React",
         "Flask",
-        "Celery"
+        "Celery",
+        "Nuxt",
+        "Vue 3",
+        "React",
+        "Node.js",
+        "Bun"
     ],
 
     "Tools & Platforms": [
@@ -26,19 +28,21 @@
         "GitHub",
         "JetBrains IDEs",
         "VS Code",
-        "Eclipse",
-        "MySQL Workstation",
+        "Jira",
+        "MySQL Workbench",
         "AWS",
         "Docker",
         "Google Firebase",
         "DigitalOcean",
         "VirtualBox",
-        "VMware"
+        "VMware Fusion",
+        "Postman"
     ],
 
     "Databases": [
         "MySQL",
-        "MongoDB"
+        "PostgreSQL",
+        "PostGIS"
     ],
 
     "Relevant Courses": [

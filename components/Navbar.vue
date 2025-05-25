@@ -100,7 +100,7 @@
         align-items: center;
         justify-content: space-between;
         width: 100%;
-        outline: 1px solid red;
+        /* outline: 1px solid red; */
     }
 
     .navbar__logo {
@@ -109,14 +109,14 @@
         justify-content: flex-start;
         height: 100%;
         margin-left: 10px;
-        outline: 1px solid red;
+        /* outline: 1px solid red; */
         line-height: 0;
     }
 
     .navbar__logo img {
         height: 40px;
         width: auto;
-        outline: 1px solid red;
+        /* outline: 1px solid red; */
         display: block;
         margin: auto;
     }

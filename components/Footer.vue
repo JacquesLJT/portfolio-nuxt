@@ -67,7 +67,7 @@
           </h4>
           <ul>
             <li>
-              <a href="resume.pdf" target="_blank">
+              <a href="LandonThibodeau_Resume.pdf" target="_blank">
                 <font-awesome-icon :icon="['fas', 'file-pdf']" />
                 Resume
               </a>
@@ -141,7 +141,7 @@
     width: 80%;
     margin: 0 auto;
     padding-top: 20px;
-    outline: 1px solid red;
+    /* outline: 1px solid red; */
   }
 
   .footer__content--logo img {
