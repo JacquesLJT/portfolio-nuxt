@@ -1,4 +1,4 @@
-name              = "portfolio-nuxt"
+name = "portfolio"
 compatibility_date = "2025-05-25"
 
 [assets]
