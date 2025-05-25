@@ -1,0 +1,5 @@
+name              = "portfolio-nuxt"
+compatibility_date = "2025-05-25"
+
+[assets]
+directory = ".output/public"   # Nuxt puts the static files here
